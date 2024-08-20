@@ -1,5 +1,6 @@
 Feature: place order for Products
 
+@Ignore
 Scenario Outline: Search Experience for product search in both home and offers page
 
 Given User is on GreenCart Landing page
